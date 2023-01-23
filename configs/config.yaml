@@ -1,0 +1,6 @@
+db:
+  username: "repository"
+  host: "localhost"
+  port: "5436"
+  dbname: "repository"
+  sslmode: "disable"
